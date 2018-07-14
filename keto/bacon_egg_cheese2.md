@@ -1,4 +1,4 @@
-from: https://ketogenic.com/recipes/keto-egg-mcmuffin/
+from: [ketogenic.com](https://ketogenic.com/recipes/keto-egg-mcmuffin/)
 
 ## Ingredients
 
